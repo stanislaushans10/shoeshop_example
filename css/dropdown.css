@@ -1,0 +1,31 @@
+.flex-container {
+  display: flex;
+  background-color: #5CDDD1;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  /* position: sticky;
+  position: -webkit-sticky;
+  top: 0; */
+}
+
+.dropdown {
+    /* padding: 0px,25px,0px,25px; */
+    padding-right: 30px;
+    font-family: Roboto;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-menu {
+    border-radius: 10px;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
