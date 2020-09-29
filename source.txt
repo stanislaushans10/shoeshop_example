@@ -1,0 +1,5 @@
+https://developers-dot-devsite-v2-prod.appspot.com/chart/interactive/docs/gallery/linechart.html#configuration-options
+
+https://github.com/changkejun/google-chart-offline
+
+https://stackoverflow.com/questions/15869232/create-google-chart-data-table-array-from-two-arrays
